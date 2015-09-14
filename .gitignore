@@ -5,3 +5,12 @@
 .DS_Store
 /build
 /captures
+/.idea/compiler.xml
+/.idea/.name
+/.idea/gradle.xml
+/.idea/copyright
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/encodings.xml
+/SpeedPaint.iml
+/libraries/libraries.iml
